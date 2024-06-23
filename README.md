@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @demonpapillon
 - 👀 I’m interested in getting a job with the big bucks to bankroll my Wizard of Barge merch addiction
-- 🌱 I’m currently learning data science, Python, Rust
+- 🌱 I’m currently learning Github, data science, Python, Rust
 - 💞️ I’m looking to collaborate on neutronics modeling
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
