@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting a job with the big bucks to bankroll my Wizard of Barge merch addiction
 - 🌱 I’m currently learning Github, data science, Python, Rust
 - 💞️ I’m looking to collaborate on neutronics modeling
-- 📫 How to reach me ...
+- 📫 How to reach me marielou.bolt@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't know my left from right :(
 
